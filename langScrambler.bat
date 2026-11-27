@@ -1,1 +1,1 @@
-@"C:\ProgramData\anaconda3\python.exe" "C:\Users\hatta\OneDrive\Documents\Programming\langScrambler.py" %*
+@py langScrambler.py %*
